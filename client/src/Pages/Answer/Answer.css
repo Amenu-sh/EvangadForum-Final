@@ -1,0 +1,136 @@
+/* .answer__conatiner {
+  width: 75%;
+  margin-left: 150px;
+}
+.answer__conatiner h5 {
+  text-align: left;
+}
+
+.question__icon {
+  display: flex;
+}
+.answer__desc {
+  margin-left: 15px;
+  font-size: 12px;
+  align-items: center;
+}
+.answer__link a {
+  text-decoration: none;
+  color: black;
+  font-size: 10px;
+}
+.link {
+  text-align: center;
+}
+.answer__button button {
+  margin-bottom: 45px;
+  border-radius: 7px;
+  background-color: blue;
+  color: white;
+  margin-left: 8%;
+}
+.answer__box {
+  width: 98%;
+  box-shadow: 10px 10px 5px rgb(221, 212, 212);
+  border-radius: 30px;
+  margin: 20px 0px 40px 50px;
+}
+.question__line {
+  font-size: 12px;
+}
+.question__form {
+  width: 85%;
+}
+.answer__topQuestion {
+  text-align: center;
+  font-size: 16px;
+  margin-top: 55px;
+  font-weight: bold;
+}
+.answer__community {
+  font-size: 16px;
+}
+.question__form {
+  margin-left: 7%;
+  padding: 10px;
+  font-size: 12px;
+  border-radius: 10px;
+} */
+
+.answer {
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 6vh;
+}
+.answer__top {
+  /* margin-bottom: 40px; */
+  margin-bottom: 0px;
+}
+
+.answer__header {
+  line-height: 0.8;
+}
+.answer__header p:nth-child(1) {
+  font-weight: 600;
+}
+.answer__header p:nth-child(2) {
+  font-weight: 450;
+  font-size: 14px;
+}
+.answer__header p:nth-child(3) {
+  /* font-weight: 450; */
+  font-size: 12px;
+}
+.answer__title {
+  margin-top: 15px;
+  border-top: 1px solid rgb(191, 191, 191);
+  border-bottom: 1px solid rgb(191, 191, 191);
+}
+
+.answer__bottom {
+  border-radius: 10px;
+  /* border: 2px solid rgb(207, 205, 205); */
+  box-shadow: 4px 4px 5px 2px rgba(0, 0, 0, 0.2);
+  margin-bottom: 40px;
+}
+.answer__form {
+  margin: 15px auto;
+  width: 90%;
+}
+.abtext {
+  font-size: 25px;
+  margin-bottom: 10px;
+  margin-top: 50px;
+  padding-top: 40px;
+}
+.alabel {
+  padding-top: 15px;
+  padding-left: 20px;
+  position: absolute;
+}
+.ainp {
+  border-radius: 10px;
+  width: 90%;
+  height: 150px;
+  margin-bottom: 10px;
+}
+.answer__formInput {
+  border-radius: 10px;
+  width: 100%;
+  height: 120px;
+  /* margin-left: auto;
+  margin-right: auto; */
+}
+.answer__formBtn {
+  background-color: #516cf0;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 10px 50px;
+  margin-top: 15px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}

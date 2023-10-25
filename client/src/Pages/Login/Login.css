@@ -1,0 +1,39 @@
+.login {
+  background-color: #ffffff;
+  border-radius: 5px;
+  /* width: 50%; */
+  height: 400px;
+  /* z-index: 1; */
+  padding: 60px 20px;
+  /* border: 1px solid black; */
+  margin: 0 0 0 15%;
+  text-align: center;
+  box-shadow: 2px 2px lightgrey;
+}
+
+.CrtAct {
+  color: #fe8302;
+  text-decoration: none;
+  font-size: 14px;
+}
+.CrtAct:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.login__CreateActP {
+  font-size: 14px;
+}
+.login input {
+  padding: 10px 0 10px 5px;
+  border: 1px solid rgb(220, 215, 215);
+  border-radius: 3px;
+  width: 90%;
+  font-size: 12px;
+}
+.login button {
+  padding: 5px 40px;
+  background-color: #fe8302;
+  color: #fff;
+  border: none;
+  border-radius: 3px;
+}
